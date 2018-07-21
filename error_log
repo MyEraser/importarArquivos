@@ -1,0 +1,5 @@
+[30-Jan-2018 13:33:22 America/Chicago] PHP Warning:  fopen() expects at least 2 parameters, 1 given in /home/indum317/public_html/wp/importarArquivos/importarArquivo.php on line 9
+[30-Jan-2018 13:35:46 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/indum317/public_html/wp/importarArquivos/importarArquivo.php on line 15
+[30-Jan-2018 13:36:00 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/indum317/public_html/wp/importarArquivos/importarArquivo.php on line 15
+[31-Jan-2018 05:54:33 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/indum317/public_html/wp/importarArquivos/importarArquivo.php on line 15
+[31-Jan-2018 07:33:26 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/indum317/public_html/wp/importarArquivos/importarArquivo.php on line 15
