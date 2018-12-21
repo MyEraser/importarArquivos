@@ -7,4 +7,6 @@ Este código havia sido desenvolvido para realiar a leitura de arquivos de um CS
 Reestruturar os dados e inseri-los de volta no banco de dados;
 
 Toda a estrutura está em PHP puro procedural;
-Há um exemplo de uma ds tabelas que usei para ler e transcrever no arquivo SQL
+Há um exemplo de uma ds tabelas que usei para ler e transcrever no arquivo SQL;
+
+É um código incompleto, mas a maior parte dele funciona, basta adapatar para a necessidade;
